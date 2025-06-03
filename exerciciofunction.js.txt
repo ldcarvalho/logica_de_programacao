@@ -1,0 +1,145 @@
+
+Exercício 1
+function olaMundo() {
+    console.log("Olá mundo!")
+}
+olaMundo()
+
+exercício 2 
+function mostrarNome() {
+  console.log("Lívia Duarte Carvalho");
+}
+mostrarNome()
+
+Exercício 3
+function mostrarIdade() {
+    console.log("16 anos")
+}
+
+mostrarIdade()
+
+exercício 4
+function somarDoisNumeros() {
+    console.log(25 + 11)
+}
+
+somarDoisNumeros()
+
+exercício 5
+function mostrarMensagem() {
+    console.log("Você consegue!")
+}
+
+mostrarMensagem()
+
+exercício 6
+function mostrarData() {
+    console.log("6 de Maio de 2025")
+}
+
+mostrarData()
+
+exercício 7
+function mostrarCidade() {
+    console.log("Poá")
+}
+
+mostrarCidade()
+
+exercício 8
+function BoasVindas(){
+    console.log("bem vindo," + "Lívia")
+}
+
+BoasVindas()
+
+Exercício 9
+function NumeroSub(){
+    console.log(70 - 10)
+}
+
+NumeroSub()
+
+Exercício 10
+function mostrarAnimalFav () {
+    console.log("Cavalo")
+}
+mostrarAnimalFav ()
+
+exercício 11
+function aprendendo() {
+    console.log("Estou aprendendo java script")
+}
+
+aprendendo()
+
+exercício 12
+function triplo() {
+    console.log(25 * 3)
+}
+triplo()
+
+exercício 13
+function IdadeNome() {
+    console.log("Nome: Lívia Idade: 16 anos")
+}
+
+IdadeNome()
+
+Exercício 14
+function numeros1a10() {
+    console.log("1,2,3,4,5,6,7,8,9,10")
+}
+
+numeros1a10()
+
+exercício 15
+
+function iniciado() {
+    console.log("aula de funções iniciada")
+}
+
+iniciado()
+
+exercício 16
+
+function exibirNumero() {
+  console.log("voce digitou o numero 25")
+  
+
+}
+
+exibirNumero()
+
+
+exercício 17
+function curso() {
+    console.log("Técnico de informática")
+}
+
+curso()
+
+
+exercício 18
+
+function chamada() {
+    console.log("chamada numero 20 " + "presente!")
+}
+
+chamada()
+
+exercício 19
+
+function cor() {
+    console.log("Sua cor favorita é Azul e Vermelho!")
+}
+
+cor()
+
+exercício 20
+
+function pais() {
+    console.log("Você mora no Brasil!")
+}
+
+pais()
